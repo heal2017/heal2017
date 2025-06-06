@@ -1,4 +1,4 @@
-# Hi, I'm heal2017 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Satisfy&pause=1000&color=19D592&center=true&vCenter=true&lines=Hi%2C+I'm+heal2017.+Welcome+to+my+homepage+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=heal2017.heal2017)
 
